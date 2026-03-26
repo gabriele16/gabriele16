@@ -21,9 +21,9 @@ My focus lies at the intersection of accelerated data science, high-performance 
 
 ### 🛠️ Tech  Stack
 
-* **Data Science & ML Engineeering:** Python, PyTorch (Python & C++ API), Graph Neural Networks (NequIP, Allegro), Active Learning.
+* **Data Science & ML Engineeering:** Python, PyTorch (Python & C++ API), Graph Neural Networks, Active Learning.
 * **HPC & Cloud Infrastructure:** Azure Quantum Elements, Azure HPC, Multi-GPU/CPU Scaling, CUDA, MPI, Slurm, RAPIDS (CuDF, CuML).
-* **Software Engineering:** C/C++, Fortran, Bash, Azure DevOps, CI/CD, Docker.
+* **Software Engineering:** C/C++, Fortran, Bash, Azure DevOps, CI/CD.
 
 ---
 
