@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-tocci/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Emhn02oAAAAJ)
-[![NVIDIA Certified](https://img.shields.io/badge/NVIDIA_Certified-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.credly.com/users/gabriele-tocci)
+[![NVIDIA Certification](https://img.shields.io/badge/NVIDIA_Certified-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.credly.com/users/gabriele-tocci)
 
 </div>
 
@@ -43,7 +43,7 @@ As a Principal Investigator (PI) for the Swiss National Science Foundation (Ambi
 | | |
 | :---: | :--- |
 | <img src="https://github.com/user-attachments/assets/632c1d90-8a51-4db5-9502-bd211829178b" width="180"> | **[The role of the water contact layer on hydration and transport at solid/liquid interfaces](https://www.pnas.org/doi/10.1073/pnas.2407877121)** <br> *PNAS (2024)* <br> Applied active learning frameworks to uncover new water purification phenomena. |
-| <img src="https://github.com/user-attachments/assets/08f6fa71-aecd-4266-a381-416bba0becea" width="180"> | **[SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles](https://arxiv.org/abs/2510.13696)** <br> *arXiv pre-print (2025)* <br> Continued collaboration with Microsoft Research on ML interatomic potentials. |
+| <img src="https://github.com/user-attachments/assets/08f6fa71-aecd-4266-a381-416bba0becea" width="180"> | **[SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles](https://arxiv.org/abs/2510.13696)** <br> *arXiv pre-print (2025)* <br> Collaboration with Microsoft Research on ML interatomic potentials. |
 | <img src="https://github.com/user-attachments/assets/6a3e60eb-1ea5-43ad-9ab4-8712c144bf70" width="180"> | **[Friction of Water on Graphene and Hexagonal Boron Nitride from Ab Initio Methods](https://pubs.acs.org/doi/10.1021/nl502837d)** <br> *Nano Letters (2014)* <br> Discovered friction mechanisms of water on 2D materials. |
 
 
