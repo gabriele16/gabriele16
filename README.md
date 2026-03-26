@@ -1,9 +1,9 @@
 <div align="center">
   
-# 👋 Gabriele Tocci, PhD
-**Computational Materials Scientist | Machine Learning Engineer**
+# Gabriele Tocci, PhD
+**Data Scientist | Machine Learning Engineer | Computational Materials Scientist**
 
-*Bridging Ab Initio Molecular Dynamics, Statistical Mechanics, and Deep Learning for Condensed Phase Systems.*
+*Bridging Deep Learning, Statistical Mechanics, and High-Performance Computing for large-scale physical simulations.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-tocci/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Emhn02oAAAAJ)
@@ -13,60 +13,37 @@
 
 ---
 
-### 🔬 About Me & Current Focus
+### 🔬 Summary
 
-With over 10 years of R&D experience across Microsoft Quantum, UZH, EPFL, and UCL, I develop computational frameworks to uncover fundamental physical mechanisms. I specialize in bridging advanced Deep Learning with classical physics, optimizing large-scale simulations on high-performance computing clusters. 
+I am a Senior Machine Learning Engineer and Computational Materials Scientist with over 10 years of R&D experience across Microsoft Quantum, University of Zurich, EPFL, and UCL. I specialize in developing scalable AI solutions and integrating advanced Deep Learning models directly into physics-based workflows.
 
-- 🔭 **Currently working on:** Core development of the interface between `PyTorch C++` and `Fortran 2008` for the **CP2K** software suite. I am actively upgrading the acceleration and inference capabilities for Equivariant Machine Learning Interatomic Potentials (such as **NequIP** and **Allegro**) to embed modern AI directly into legacy quantum chemistry workflows **([See PR #4898](https://github.com/cp2k/cp2k/pull/4898))**.
-- 🌱 **Scientific Focus:** Nanofluidic transport, energy conversion, and water purification leveraging active learning and Density Functional Theory (DFT).
-- ⚡ **Scientific & Engineering Impact:** Pioneered foundational insights into nanofluidic friction and interfacial water structure, advancing the fields of catalysis and energy conversion. At Microsoft Quantum, engineered AI-accelerated computational workflows on Azure HPC that drastically reduced materials discovery screening times for enterprise customers.
+My focus lies at the intersection of accelerated data science, high-performance computing (HPC), and complex data analysis, backed by a proctored NVIDIA Certification in Accelerated Data Science.
 
----
+### 🛠️ Tech  Stack
 
-### 💻 Tech Stack & Tools
-
-**Machine Learning & Data Science** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Software Architecture & HPC** ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Cloud & DevOps** ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+* **Data Science & ML Engineeering:** Python, PyTorch (Python & C++ API), Graph Neural Networks (NequIP, Allegro), Active Learning.
+* **HPC & Cloud Infrastructure:** Azure Quantum Elements, Azure HPC, Multi-GPU/CPU Scaling, CUDA, MPI, Slurm, RAPIDS (CuDF, CuML).
+* **Software Engineering:** C/C++, Fortran, Bash, Azure DevOps, CI/CD, Docker.
 
 ---
 
-### 📜 Selected Publications & TOC Graphics
+### 🚀 Highlighted Engineering Contributions
 
-*(Note: Click on the paper titles for full access)*
+* **Deep Learning Integration in CP2K:** Developer responsible for bridging classical physics frameworks with data-driven AI. Designed the interface between `PyTorch C++` and `Fortran 2008` to embed Equivariant ML Interatomic Potentials directly into the CP2K quantum chemistry suite **([See PR #4898](https://github.com/cp2k/cp2k/pull/4898))**.
+* **Accelerated Materials Discovery:** As a Senior ML Engineer at Microsoft, I developed high-throughput ML workflows and optimized large Azure Cloud HPC for the Azure Quantum Elements platform to accelerate simulations for materials discovery.
 
-| Graphical Abstract | Publication Details |
+### 💡 Scientific Lead
+
+As a Principal Investigator (PI) for the Swiss National Science Foundation (Ambizione) and PRACE EU, I have led a large-scale computational research project:
+* **Funding of Computational Resources:** Secured funding and a 3-year-long allocation for tens of Millions of CPU-hours of on tier-0 Swiss National Supercomputers.
+* **Scientific Lead:** Directed research strategies and led scientists in applying Deep Learning and Density Functional Theory to solve complex nanofluidic and energy conversion problems.
+
+---
+
+### 📜 Highlighted Research
+
+| TOC Graphic | Publication Details |
 | :---: | :--- |
-| <img src="images/toc_pnas_2024.png" width="250"> | **[The role of the water contact layer on hydration and transport at solid/liquid interfaces](https://www.pnas.org/doi/10.1073/pnas.2407877121)** <br> *PNAS (2024)* <br> Uncovering new water purification phenomena using active learning frameworks. |
-| <img src="images/toc_simpoly_2025.png" width="250"> | **[SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles](https://arxiv.org/abs/2510.13696)** <br> *arXiv pre-print (2025)* <br> Collaborative research with Microsoft Research on ML interatomic potentials. |
-| <img src="images/toc_nanoletters_2014.png" width="250"> | **[Friction of Water on Graphene and Hexagonal Boron Nitride from Ab Initio Methods](https://pubs.acs.org/doi/10.1021/nl502837d)** <br> *Nano Letters (2014)* <br> Discovered friction mechanisms of water on 2D materials (Cited $\approx$ 500 times). |
-| <img src="images/toc_naturemat_2017.png" width="250"> | **[Structure of a model TiO2 photocatalytic interface](https://www.nature.com/articles/nmat4829)** <br> *Nature Materials (2017)* <br> Computational modeling of materials relevant to heterogeneous catalysis. |
-
-> **To add your images:** Create an `images` folder in your `gabriele16` repository, upload the TOC graphics (e.g., as `toc_pnas_2024.png`), and the table above will automatically display them!
-
----
-
-### 🏆 Major Grants & Project Lead
-
-* **Swiss National Science Foundation (SNF) Ambizione:** *Principal Investigator.* Led a multi-year project focused on the quantum mechanical simulation of nanoscale transport properties at aqueous interfaces.
-* **PRACE EU Allocation:** *Principal Investigator.* Secured tier-0 computational resources on Swiss National Supercomputers to execute massive-scale simulations.
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriele16&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="Gabriele's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele16&layout=compact&theme=transparent&hide_border=true&title_color=0A66C2" alt="Gabriele's Top Languages" width="48%" />
-</div>
+| <img src="images/toc_pnas_2024.png" width="180"> | [cite_start]**[The role of the water contact layer on hydration and transport at solid/liquid interfaces](https://www.pnas.org/doi/10.1073/pnas.2407877121)** <br> *PNAS (2024)* [cite: 71] [cite_start]<br> Applied active learning frameworks to uncover new water purification phenomena[cite: 41]. |
+| <img src="images/toc_simpoly_2025.png" width="180"> | [cite_start]**[SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles](https://arxiv.org/abs/2510.13696)** <br> *arXiv pre-print (2025)* [cite: 21] [cite_start]<br> Continued collaboration with Microsoft Research on ML interatomic potentials[cite: 21]. |
+| <img src="images/toc_nanoletters_2014.png" width="180"> | [cite_start]**[Friction of Water on Graphene and Hexagonal Boron Nitride from Ab Initio Methods](https://pubs.acs.org/doi/10.1021/nl502837d)** <br> *Nano Letters (2014)* [cite: 76] [cite_start]<br> Discovered friction mechanisms of water on 2D materials (Cited $\approx$ 500 times)[cite: 49, 76]. |
