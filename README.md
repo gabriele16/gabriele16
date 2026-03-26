@@ -17,7 +17,7 @@
 
 I am a Senior Machine Learning Engineer and Computational Materials Scientist with over 10 years of R&D experience across Microsoft Quantum, University of Zurich, EPFL, and UCL. I specialize in developing scalable AI solutions and integrating advanced Deep Learning models directly into physics-based workflows.
 
-My focus lies at the intersection of accelerated data science, high-performance computing (HPC), and complex data analysis, backed by a proctored NVIDIA Certification in Accelerated Data Science.
+My focus lies at the intersection of accelerated data science, high-performance computing (HPC), and complex data analysis. I recently passed the NVIDIA Certification in Accelerated Data Science.
 
 ### 🛠️ Tech  Stack
 
@@ -44,6 +44,6 @@ As a Principal Investigator (PI) for the Swiss National Science Foundation (Ambi
 
 | TOC Graphic | Publication Details |
 | :---: | :--- |
-| <img src="images/toc_pnas_2024.png" width="180"> | [cite_start]**[The role of the water contact layer on hydration and transport at solid/liquid interfaces](https://www.pnas.org/doi/10.1073/pnas.2407877121)** <br> *PNAS (2024)* [cite: 71] [cite_start]<br> Applied active learning frameworks to uncover new water purification phenomena[cite: 41]. |
-| <img src="images/toc_simpoly_2025.png" width="180"> | [cite_start]**[SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles](https://arxiv.org/abs/2510.13696)** <br> *arXiv pre-print (2025)* [cite: 21] [cite_start]<br> Continued collaboration with Microsoft Research on ML interatomic potentials[cite: 21]. |
-| <img src="images/toc_nanoletters_2014.png" width="180"> | [cite_start]**[Friction of Water on Graphene and Hexagonal Boron Nitride from Ab Initio Methods](https://pubs.acs.org/doi/10.1021/nl502837d)** <br> *Nano Letters (2014)* [cite: 76] [cite_start]<br> Discovered friction mechanisms of water on 2D materials (Cited $\approx$ 500 times)[cite: 49, 76]. |
+| <img src="images/toc_pnas_2024.png" width="180"> | **[The role of the water contact layer on hydration and transport at solid/liquid interfaces](https://www.pnas.org/doi/10.1073/pnas.2407877121)** <br> *PNAS (2024)* <br> Applied active learning frameworks to uncover new water purification phenomena. |
+| <img src="images/toc_simpoly_2025.png" width="180"> | **[SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles](https://arxiv.org/abs/2510.13696)** <br> *arXiv pre-print (2025)* <br> Continued collaboration with Microsoft Research on ML interatomic potentials. |
+| <img src="images/toc_nanoletters_2014.png" width="180"> | **[Friction of Water on Graphene and Hexagonal Boron Nitride from Ab Initio Methods](https://pubs.acs.org/doi/10.1021/nl502837d)** <br> *Nano Letters (2014)* <br> Discovered friction mechanisms of water on 2D materials. |
