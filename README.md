@@ -39,11 +39,10 @@ As a Principal Investigator (PI) for the Swiss National Science Foundation (Ambi
 * **Scientific Lead:** Directed research strategies and led scientists in applying Deep Learning and Density Functional Theory to solve complex nanofluidic and energy conversion problems.
 
 ---
-
 ### 📜 Highlighted Research
 
 | | |
 | :---: | :--- |
-| <img src="images/pnas_small.png" width="180"> | **[The role of the water contact layer on hydration and transport at solid/liquid interfaces](https://www.pnas.org/doi/10.1073/pnas.2407877121)** <br> *PNAS (2024)* <br> Applied active learning frameworks to uncover new water purification phenomena. |
-| <img src="images/image_gen_simpoly_small.png" width="180"> | **[SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles](https://arxiv.org/abs/2510.13696)** <br> *arXiv pre-print (2025)* <br> Continued collaboration with Microsoft Research on ML interatomic potentials. |
-| <img src="images/friction_small.png" width="180"> | **[Friction of Water on Graphene and Hexagonal Boron Nitride from Ab Initio Methods](https://pubs.acs.org/doi/10.1021/nl502837d)** <br> *Nano Letters (2014)* <br> Discovered friction mechanisms of water on 2D materials. |
+| <img src="https://raw.githubusercontent.com/gabriele16/gabriele16/main/images/pnas_small.png" width="180" alt="PNAS 2024 Graphic"> | **[The role of the water contact layer on hydration and transport at solid/liquid interfaces](https://www.pnas.org/doi/10.1073/pnas.2407877121)** <br> *PNAS (2024)* <br> Applied active learning frameworks to uncover new water purification phenomena. |
+| <img src="https://raw.githubusercontent.com/gabriele16/gabriele16/main/images/image_gen_simpoly_small.png" width="180" alt="SimPoly 2025 Graphic"> | **[SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles](https://arxiv.org/abs/2510.13696)** <br> *arXiv pre-print (2025)* <br> Continued collaboration with Microsoft Research on ML interatomic potentials. |
+| <img src="https://raw.githubusercontent.com/gabriele16/gabriele16/main/images/friction_small.png" width="180" alt="Nano Letters 2014 Graphic"> | **[Friction of Water on Graphene and Hexagonal Boron Nitride from Ab Initio Methods](https://pubs.acs.org/doi/10.1021/nl502837d)** <br> *Nano Letters (2014)* <br> Discovered friction mechanisms of water on 2D materials. |
