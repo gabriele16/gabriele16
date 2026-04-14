@@ -3,11 +3,11 @@
 # Gabriele Tocci, PhD
 **Data Scientist | Machine Learning Engineer | Computational Materials Scientist**
 
-*Bridging Deep Learning, Statistical Mechanics, and High-Performance Computing for large-scale physical simulations.*
+*Bridging Deep Learning, Statistical Mechanics, and High-Performance Computing for large-scale physics simulations.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-tocci/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Emhn02oAAAAJ)
-[![NVIDIA Certification](https://img.shields.io/badge/NVIDIA_Certified-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.credly.com/users/gabriele-tocci)
+[![NVIDIA Certification](https://img.shields.io/badge/NVIDIA_Certification-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.credly.com/users/gabriele-tocci)
 
 </div>
 
@@ -21,13 +21,13 @@ My focus lies at the intersection of accelerated data science, high-performance 
 
 ### 🛠️ Tech  Stack
 
-* **Data Science & ML Engineeering:** Python, PyTorch (Python & C++ API), Graph Neural Networks, Active Learning.
-* **HPC & Cloud Infrastructure:** Azure Quantum Elements, Azure HPC, Multi-GPU/CPU Scaling, CUDA, MPI, Slurm, RAPIDS (CuDF, CuML).
-* **Software Engineering:** C/C++, Fortran, Bash, Azure DevOps, CI/CD.
+* **Accelerated Data Science & ML Engineeering:** PyTorch (Python & C++ API), Graph Neural Networks, Active Learning, RAPIDS Library (CuDF, CuML, CuPy).
+* **HPC & Cloud Infrastructure:** Azure Quantum Elements, Azure HPC, Multi-node GPU/CPU Scaling, CUDA, MPI, Slurm.
+* **Software Engineering:** Python, C/C++, Fortran, Bash, Azure DevOps, CI/CD.
 
 ---
 
-### 🚀 Highlighted Engineering Contributions
+### 🚀 Highlighted Contributions
 
 * **Deep Learning Integration in CP2K:** Developer responsible for bridging classical physics frameworks with data-driven AI. Designed the interface between `PyTorch C++` and `Fortran 2008` to embed Equivariant ML Interatomic Potentials directly into the CP2K quantum chemistry suite **([See PR #4898](https://github.com/cp2k/cp2k/pull/4898))**.
 * **Accelerated Materials Discovery:** As a Senior ML Engineer at Microsoft, I developed high-throughput ML workflows and optimized large Azure Cloud HPC for the Azure Quantum Elements platform to accelerate simulations for materials discovery.
