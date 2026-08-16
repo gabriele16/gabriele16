@@ -42,12 +42,10 @@ As a Principal Investigator (PI) for the Swiss National Science Foundation (Ambi
 
 ### Research Highlights
 
-</a>[Slides: AI & Quantum Simulations on HPC 📄](https://github.com/user-attachments/files/31066466/presentation_my_research.pdf)
-
-
 | | |
 | :---: | :--- |
-| <img src="https://github.com/user-attachments/assets/9ed7fbd9-e22f-4f9b-983b-cdbb7f49e213" width="180"/> | **Scaling of MLIPs (Allegro) to 1 Million Atoms on ALPS Daint (Grace Hopper Nodes).** | 
+| <a href="https://github.com/user-attachments/files/31066466/presentation_my_research.pdf"><img src="https://github.com/user-attachments/assets/dda9274e-3c67-4f4f-a439-3692f668ef99" width="180"/></a> | **[Slides: Accelerating Materials Science Research with AI and Quantum Simulations on HPC](https://github.com/user-attachments/files/31066466/presentation_my_research.pdf)** |
+| <img src="https://github.com/user-attachments/assets/9ed7fbd9-e22f-4f9b-983b-cdbb7f49e213" width="180"/> | **[Scaling of MLIPs (Allegro) to 1 Million Atoms with CP2K on ALPS Daint (Grace Hopper Nodes), see PR #4898](https://github.com/cp2k/cp2k/pull/4898)** | 
 | <img src="https://github.com/user-attachments/assets/632c1d90-8a51-4db5-9502-bd211829178b" width="180"> | **[The role of the water contact layer on hydration and transport at solid/liquid interfaces](https://www.pnas.org/doi/10.1073/pnas.2407877121)** <br> *PNAS (2024)* <br> Applied active learning frameworks to uncover new water purification phenomena. |
 | <img src="https://github.com/user-attachments/assets/08f6fa71-aecd-4266-a381-416bba0becea" width="180"> | **[SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles](https://arxiv.org/abs/2510.13696)** <br> *arXiv pre-print (2025)* <br> Collaboration with Microsoft Research on ML interatomic potentials. |
 | <img src="https://github.com/user-attachments/assets/6a3e60eb-1ea5-43ad-9ab4-8712c144bf70" width="180"> | **[Friction of Water on Graphene and Hexagonal Boron Nitride from Ab Initio Methods](https://pubs.acs.org/doi/10.1021/nl502837d)** <br> *Nano Letters (2014)* <br> The first quantum mechanical simulations of friction mechanisms of water on 2D materials. |
