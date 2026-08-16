@@ -30,7 +30,7 @@ My focus lies at the intersection of AI for Science, Large-scale simulations on 
 ### Highlighted Contributions
 
 * **Deep Learning Integration in CP2K:** Developer responsible for bridging Quantum Chemistry methods with data-driven AI. Designed the interface between `PyTorch C++` and `Fortran 2008` to embed Equivariant ML Interatomic Potentials directly into the CP2K quantum chemistry suite **([See PR #4898](https://github.com/cp2k/cp2k/pull/4898))**.
-* **Accelerated Materials Discovery:** As a Senior ML Engineer at Microsoft, I developed high-throughput ML workflows and optimized large Azure Cloud HPC for the Azure Quantum Elements platform to accelerate simulations for materials discovery.
+* **Accelerated Materials Discovery:** As a Senior ML Engineer at Microsoft, I developed high-throughput ML workflows to efficiently run on large Azure Cloud HPC for the Azure Quantum Elements platform to accelerate simulations for materials discovery.
 
 ### Scientific Lead
 
