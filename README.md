@@ -1,7 +1,7 @@
 <div align="center">
   
 # Gabriele Tocci, PhD
-**Data Scientist | Machine Learning Engineer | Computational Materials Scientist**
+**Computational Materials Scientist | Machine Learning Engineer**
 
 *Bridging Deep Learning, Statistical Mechanics, and High-Performance Computing for large-scale physics simulations.*
 
