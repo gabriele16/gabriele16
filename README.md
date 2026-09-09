@@ -12,23 +12,21 @@
 
 ---
 
-I build end-to-end workflows for machine learning interatomic potentials — reference data from
-first principles, training, validation against the physics, then production runs at up to a million
-atoms on 8 Grace Hopper nodes. I also develop the simulation methods underneath and the HPC
-engineering that makes them scale.
+I build end-to-end workflows leveraging quantum simulations and AI for materials discovery,
+implement machine learning interatomic potentials in large open-source atomistic simulation packages, and develop statistical mechanics methods for multiscale
+modelling of materials.
 
 Previously at Microsoft Quantum, the University of Zurich, EPFL, and UCL.
 
 ### Currently
 
-* **ML potentials in [CP2K](https://github.com/cp2k/cp2k).** Built the bridge between `PyTorch C++`
-  and `Fortran 2008` so equivariant ML interatomic potentials run natively inside the quantum
-  chemistry suite — [PR #4898](https://github.com/cp2k/cp2k/pull/4898).
+* **ML potentials in [CP2K](https://github.com/cp2k/cp2k).** I wrote the interface between
+  `PyTorch C++` and `Fortran 2008` so equivariant ML interatomic potentials run natively inside the
+  quantum chemistry suite ([PR #4898](https://github.com/cp2k/cp2k/pull/4898)).
 * **High-throughput ML workflows on Azure**, for Azure Quantum Elements and materials discovery.
-* **Water at solid interfaces.** Machine learning interatomic potentials and ab initio MD, aimed at
-  how water orders, sticks and slips against a surface — which is what decides whether you can
-  purify it or convert energy with it. SNSF Ambizione and PRACE EU grants, tens of millions of
-  CPU-hours on Swiss tier-0 machines.
+* **Water at solid interfaces.** Machine learning interatomic potentials and ab initio MD applied to
+  water purification and energy conversion. Funded by SNSF Ambizione and PRACE EU, with tens of
+  millions of CPU-hours on Swiss tier-0 machines.
 
 ---
 
